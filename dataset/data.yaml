@@ -1,0 +1,14 @@
+path: dataset
+
+train: images/train
+val: images/valid
+
+names:
+  0: product
+
+roboflow:
+  workspace: aashita-jolly
+  project: aashita-jolly
+  version: dataset
+  license: Private
+  url: https://app.roboflow.com/aashita-jolly/aashita-jolly/dataset
